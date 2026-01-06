@@ -1,4 +1,6 @@
 /.vscode
 /Exploration
 **/__pycache__/
-/data
+/data/geo_data/
+/data/glove.6B/
+/data/saved_data/
