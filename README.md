@@ -1,4 +1,4 @@
-# 🌍 Geoparsing: Location Entity Extraction & Disambiguation
+# Geoparsing: Location Entity Extraction & Disambiguation
 
 This repository implements a **geoparsing pipeline** for extracting and disambiguating geographic location entities from text using **NLP and deep learning techniques**. The system combines **sequence labeling models** for location extraction with **gazetteer-based heuristics** for coordinate resolution, enabling accurate mapping of textual location mentions to real-world geographic coordinates.
 
@@ -25,6 +25,8 @@ The pipeline consists of two core stages:
    - Population-based heuristics
    - Distance-based heuristics
    - A combined scoring model
+
+![Sample](/assets/sample.png)
 
 ---
 
